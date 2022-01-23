@@ -1,16 +1,10 @@
-# socketio_dart_server
+# Getting Started
+Step 1: Run dart_server.dart
+Step 2: Android Emulator has problem with port 3000, so remember to use *adb reverse tcp:3000 tcp:3000*
+Step 3: Run dart_client.dart
 
-A new Flutter project.
 
-## Getting Started
+To test for other request, go to:
+https://amritb.github.io/socketio-client-tool/v1/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/36349293/150680861-9b4001c2-e5a2-46d6-83e7-0d454dbfa071.png)
